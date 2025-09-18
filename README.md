@@ -11,6 +11,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2025 | arXiv | [ComicScene154: A Scene Dataset for Comic Analysis](https://arxiv.org/pdf/2508.16190) | |
       | 2025 | COLING | [AnimeDL-2M: Million-Scale AI-Generated Anime Image Detection and Localization in Diffusion Era](https://arxiv.org/abs/2504.11015) | [HP](https://flytweety.github.io/AnimeDL2M/) |
       | 2025 | COLING | [Context-Informed Machine Translation of Manga using Multimodal Large Language Models](https://arxiv.org/pdf/2411.02589) | [GitHub](https://github.com/plippmann/multimodal-manga-translation) |
       | 2024 | Arxiv | [Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names](https://arxiv.org/abs/2408.00298) | [GitHub](https://github.com/ragavsachdeva/magi) |
@@ -457,6 +458,14 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       | 2021 | JSCI | [Enhancement of Anime Imaging Enlargement using Modified Super-Resolution CNN](https://arxiv.org/pdf/2110.02321.pdf)  | [Github](https://github.com/TanakitInt/SRCNN-anime) |
   </details>
 
+  - <details>
+    <summary>Background Removal</summary>
+    
+    | **Year** | **Conference / Journal** | **Title** | **Links** |
+    | ---- | ---- | ---- | ---- | 
+    | 2025 | arXiv | [ToonOut: Fine-tuned Background-Removal for Anime Characters](https://arxiv.org/pdf/2509.06839) |[Github](https://github.com/MatteoKartoon/BiRefNet) |
+      </details>
+
 ### Character Animating
   - <details>
       <summary>Character animation</summary>
@@ -498,6 +507,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       <summary>Colorization</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
+      | 2025 | arXiv | [Region-Wise Correspondence Prediction between Manga Line Art Images](https://arxiv.org/pdf/2509.09501) |  |
       | ---- | ---- | ---- | ---- | 
       | 2025 | arXiv | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://arxiv.org/pdf/2508.09709) |  |
   </details>
