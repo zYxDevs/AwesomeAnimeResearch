@@ -494,7 +494,9 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
     <summary>Generation</summary>
 
     | **Year** | **Conference / Journal** | **Title** | **Links** |
-    | ---- | ---- | ---- | ---- | 
+    | ---- | ---- | ---- | ---- |
+    | 2025 | Arxiv | [DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models](https://arxiv.org/pdf/2512.01686) |  |
+    | 2025 | Arxiv | [Panel-by-Panel Souls: A Performative Workflow for Expressive Faces in AI-Assisted Manga Creation](https://arxiv.org/pdf/2511.16038) |  |
     | 2025 | Arxiv | [Retrieval Augmented Comic Image Generation](https://arxiv.org/pdf/2507.09140) |  |
     | 2024 | Arxiv | [Sketch2Manga: Shaded Manga Screening from Sketch with Diffusion Models](https://arxiv.org/pdf/2403.08266) | [Github](https://github.com/dmMaze/sketch2manga) |
     | 2021 | CVPR | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | [HP](https://lllyasviel.github.io/MangaFilter/) |
